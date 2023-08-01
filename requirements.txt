@@ -1,0 +1,11 @@
+numpy
+pandas
+langchain
+streamlit
+openai
+PyPDF2
+faiss-cpu
+tiktoken
+youtube-transcript-api
+pytube
+-e .
